@@ -1,6 +1,5 @@
 # Flipkart-Website-Testing
 Manual QA testing project on Flipkart website
-# Flipkart Website Testing
 
 This project contains manual testing performed on the Flipkart website.
 
